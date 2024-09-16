@@ -5,7 +5,7 @@ annotate service.Risks with @(
         Data : [
             {
                 $Type : 'UI.DataField',
-                Label : 'title',
+                Label : 'Title',
                 Value : title,
             },
             {
